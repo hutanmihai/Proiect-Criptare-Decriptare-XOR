@@ -1,4 +1,4 @@
-# Proiect-Criptare-XOR
+# Proiect_Criptare_Decriptare_XOR
 
 Membrii echipei: Militaru Mihai-Alexandru, Hutan Mihai-Alexandru.
 
