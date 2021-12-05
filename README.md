@@ -3,6 +3,7 @@
 Membrii echipei: Militaru Mihai-Alexandru, Hutan Mihai-Alexandru.
 
 Partea 1 a fost scrisa in totalitate de Militaru Mihai-Alexandru.
+
 Partea 2 a fost scrisa in echipa, partea de brute-force fiind scrisa de catre Militaru Mihai-Alexandru, iar partea de decriptare fara a cunoaste inputul si nici parola a fost scrisa de mine.
 
 # Partea 1:
